@@ -1,0 +1,4 @@
+{class.main
+\\\\FIRST CODE .
+cout<<"hello world"
+}
